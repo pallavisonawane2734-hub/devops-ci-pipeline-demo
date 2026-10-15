@@ -1,0 +1,11 @@
+{
+  "name":"devop-ci-demo",
+  "version": "1.0.0",
+  "script": {
+    "test": "jest"
+};
+"dependencies":{},
+  "devDependancies":{
+    "jest":"^29.0.0"
+  }
+}
